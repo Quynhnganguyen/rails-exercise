@@ -5,7 +5,6 @@ It's a short and simple app which allow us to evaluate the candidates skills.
 
 # Exercise
 
- - [ ] [Fix the error when creating 2 tasks](https://github.com/Linc-Lu/rails-exercise/issues/1)
  - [ ] [Fix the CSS style of a task flagged as done](https://github.com/Linc-Lu/rails-exercise/issues/2)
  - [ ] [Empty the title field after having created a task](https://github.com/Linc-Lu/rails-exercise/issues/3)
  - [ ] [Ajaxify the task creation](https://github.com/Linc-Lu/rails-exercise/issues/4)
