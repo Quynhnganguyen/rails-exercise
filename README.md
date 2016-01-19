@@ -5,14 +5,14 @@ It's a short and simple app which allow us to evaluate the candidates skills.
 
 # Exercise
 
- - [ ] [Fix the error when creating 2 tasks](Linc-Lu/rails-exercise#1)
- - [ ] [Fix the CSS style of a task flagged as done](Linc-Lu/rails-exercise#2)
- - [ ] [Empty the title field after having created a task](Linc-Lu/rails-exercise#3)
- - [ ] [Ajaxify the task creation](Linc-Lu/rails-exercise#4)
- - [ ] [Add user management](Linc-Lu/rails-exercise#5)
- - [ ] [Pagination](Linc-Lu/rails-exercise#6)
- - [ ] [Export task](Linc-Lu/rails-exercise#7)
- - [ ] [Add sub tasks feature](Linc-Lu/rails-exercise#8)
+ - [ ] [Fix the error when creating 2 tasks](https://github.com/Linc-Lu/rails-exercise/issues/1)
+ - [ ] [Fix the CSS style of a task flagged as done](https://github.com/Linc-Lu/rails-exercise/issues/2)
+ - [ ] [Empty the title field after having created a task](https://github.com/Linc-Lu/rails-exercise/issues/3)
+ - [ ] [Ajaxify the task creation](https://github.com/Linc-Lu/rails-exercise/issues/4)
+ - [ ] [Add user management](https://github.com/Linc-Lu/rails-exercise/issues/5)
+ - [ ] [Pagination](https://github.com/Linc-Lu/rails-exercise/issues/6)
+ - [ ] [Export task](https://github.com/Linc-Lu/rails-exercise/issues/7)
+ - [ ] [Add sub tasks feature](https://github.com/Linc-Lu/rails-exercise/issues/8)
 
 # Contributing
 
