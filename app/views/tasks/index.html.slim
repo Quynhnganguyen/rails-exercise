@@ -25,7 +25,15 @@
           tr class="task" id="#{task.id}"
             td.id= task.id
             td.toggle
-              = form_for task, url: toggle_task_path(task), remote: true do |f|
-                = f.check_box :check
+              - if task.done?
+                  = form_for task, url: toggle_task_path(task), remote: true do |f|
+                    = f.check_box :check, {checked: true}
+              - else
+                  = form_for task, url: toggle_task_path(task), remote: true do |f|
+                    = f.check_box :check
             td.author_email= task.author_email
             td.title= task.title
+          - if task.done?
+              javascript:
+                var d = document.getElementById(#{task.id});
+                d.className += " done";
