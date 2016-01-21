@@ -18,3 +18,9 @@
 //= require_tree .
 
 UnobtrusiveFlash.flashOptions['timeout'] = 2000; // milliseconds
+
+function clearForm()
+{	
+    document.forms["new_task"]["task[author_email]"].value = '';
+    document.forms["new_task"]["task[title]"].value = '';
+}
