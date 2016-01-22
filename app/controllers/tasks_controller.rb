@@ -1,8 +1,7 @@
 class TasksController < ApplicationController
   before_action :fetch_tasks
   before_action :build_object, only: [:index, :create]
-
-  def index; end
+  respond_to :html, :js
 
   def create
     render action: :index
